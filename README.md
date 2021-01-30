@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Blog](runtua.cn)
+[Blog](https://shiyiya.github.io/)
 
 ----
 
