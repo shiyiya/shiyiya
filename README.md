@@ -2,7 +2,7 @@
 
 [Blog](https://shiyiya.github.io/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=shiyiya.visitor-badge)
+![](https://visitor-badge.laobi.icu/badge?page_id=shiyiya.visitor-badge)
 [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg)](https://paypal.me/ShiYiYa)
 
 ![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyiya&layout=compact&hide_title=true)
